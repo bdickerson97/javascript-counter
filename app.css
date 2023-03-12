@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    height: 100vh;
+    gap: 25px;
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    background-color: lightgrey;
+
+}
+.btn-container{
+    display: flex;
+    gap:20px;
+}
+
+#increase{
+    
+
+}
