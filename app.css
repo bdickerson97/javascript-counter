@@ -9,13 +9,9 @@ body{
     
     background-color: lightgrey;
 
+
 }
-.btn-container{
+#btn-container{
     display: flex;
-    gap:20px;
-}
-
-#increase{
-    
-
+    gap: 20px;
 }
